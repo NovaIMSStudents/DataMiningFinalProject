@@ -10,4 +10,5 @@ Before running this notebook, the user needs to configure a separate conda envir
 
 In order to create the environment the user needs to run the following commands in the anaconda prompt: **conda env create -f \<path to environment.yml>**. Afterwards, the user needs to activate the created environment: **conda activate datamin** and initialize the jupyter notebook: **jupyter notebook**.
 
-The final step is to install the sompy package from the personal github repository, which can be done by running the cell below.
+The final step is to install the sompy package from the personal github repository, which can be done by running the appropriate cell in the beginning of the Notebook.
+
