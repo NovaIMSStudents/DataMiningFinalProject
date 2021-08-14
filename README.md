@@ -10,7 +10,7 @@ This was an end-to-end project which means that we had to gather some business u
 
 Finally, we proposed a single set of clusters instead of the ones of each perspective and we built a simple decision tree classifier to allow future customer classification and also to understand what are the most distinguishing characteristics across clusters.
 
-The report which accompanies the notebook can be consulted at: http://bit.ly/customer_segm.
+The report which accompanies the notebook can be consulted at: https://tinyurl.com/dm-segmentation.
 
 
 # Setup Environment
